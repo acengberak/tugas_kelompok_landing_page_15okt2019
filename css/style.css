@@ -22,9 +22,80 @@ section {
     --light-gray: rgba(255, 255, 255, 0)
 }
 
-.carousel-caption h3 {
+body {
+    background: #FAF8f0;
+}
+
+/* Header */
+
+header {
+    background: #E44652;
+}
+
+
+header a {
+    font-family: var(--Rubik);
+    font-size: 0, 9em;
+    color: whitesmoke;
+}
+
+header .download .btn {
+    border: 0;
+    border-radius: 0;
+    font-weight: bold;
+
+}
+
+header .download .btn-primary {
+    background-color: #043353;
+    padding: 2.2vmin 3vmin;
+
+}
+
+header a:hover {
+    color: #FAF8f0;
+}
+
+/*penutup header */
+
+/* Section-2 */
+
+section .section-2 {
+    background: #E4dfcf;
+    padding-bottom: 2vmin 1vmin;
+}
+
+.section-2 .col-sm-12>h1 {
+    font-size: 6vmin;
+    font-family: var(--Rubik);
     color: #043353;
 }
-.section-1 .card-body p {
-    color: #043353;
+
+.section-2 .col-sm-12>p {
+    font-family: var(--Rubik);
+    font-size: 3vmin 1vmin;
+    color: gray;
+}
+
+.border-radius {
+    border-radius: 130px;
+    width: 60%;
+}
+
+/* section-3 */
+
+.section-3 .cards>h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: var(--Rubik);
+}
+
+.section-3 .col-sm-3 .cards .coloumn i {
+    color: #E44652;
+    padding: 0 0.5px;
+    font-size: 1.5rem;
+}
+
+.section-3 .cards {
+    padding: 0.6rem 0.6rem;
 }
