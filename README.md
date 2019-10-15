@@ -1,6 +1,8 @@
 # tugas_kelompok_landing_page_15okt2019
 tugas landing page 15oktober2019
 
+TEMA KONTRAKTOR
+nama kontraktor : MAXIMUS CONTRACOTR
 
 UNTUK WARNA Header : thimbleberry #E44652
 untuk warna font : bold atau h1 : marrine Blue = #043353
