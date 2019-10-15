@@ -21,3 +21,10 @@ section {
             #E44652, #043353);
     --light-gray: rgba(255, 255, 255, 0)
 }
+
+.carousel-caption h3 {
+    color: #043353;
+}
+.section-1 .card-body p {
+    color: #043353;
+}
